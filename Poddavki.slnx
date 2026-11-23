@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Poddavki.AI/Poddavki.AI.csproj" Id="a3698114-4382-408b-b47b-b98716b545a9" />
+  <Project Path="Poddavki.Core/Poddavki.Core.csproj" Id="9c5cff8d-ab3f-4b53-93c4-efbdd96089be" />
+  <Project Path="Poddavki.Data/Poddavki.Data.csproj" Id="65da72bd-c882-4840-963b-c9db5bcd6824">
+    <Platform Solution="Release|x64" Project="x64" />
+  </Project>
+  <Project Path="Poddavki.Tests/Poddavki.Tests.csproj" Id="12fdab29-db82-4633-a046-537f2f936a77">
+    <Platform Solution="Release|x64" Project="x64" />
+  </Project>
+  <Project Path="Poddavki/Poddavki.csproj" Id="8836a949-a502-41d8-bcc0-3fbc9b9583b4">
+    <Platform Solution="Release|x64" Project="x64" />
+  </Project>
+</Solution>
